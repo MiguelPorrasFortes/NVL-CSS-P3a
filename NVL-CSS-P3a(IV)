@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Cuarto Ejemplo</title>
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+<style>
+body {
+  background-color: lavender;
+}
+
+h1 {
+  color: mediumaquamarine;
+  margin-left: 40px;
+}
+p {
+  color: orange;
+}
+</style>
+  </head>
+  <body>
+    <h1 style="color:blueviolet;text-align:center;">Cuarto Ejemplo</h1>
+    <p>CSS combinado</p>
+  </body>
+</html>

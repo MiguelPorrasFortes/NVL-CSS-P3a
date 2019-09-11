@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+
+<h1>Primer ejemplo</h1>
+<p>CSS mediante archivo externo</p>
+
+</body>
+</html>
